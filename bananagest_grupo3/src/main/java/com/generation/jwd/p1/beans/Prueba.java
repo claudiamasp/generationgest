@@ -4,4 +4,5 @@ public class Prueba {
 	
 	private String MarioN;
 	private String Claudia;
+	private String Mario;
 }
