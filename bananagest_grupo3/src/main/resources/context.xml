@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+
+    <Resource name="bananagest_grupo2" 
+              auth="Container"
+              type="javax.sql.DataSource" 
+              username="root" 
+              password="asteroideb612"
+              driverClassName="com.mysql.jdbc.Driver"
+              url="jdbc:mysql://192.168.101.149:3306/bananagest_grupo2"
+              validationQuery="select 1"
+              maxActive="10" 
+              maxIdle="4"/>
+</Context>
